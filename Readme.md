@@ -18,8 +18,8 @@
 ![модель](images/Модель%20предметной%20области%20ИС.png)
 
 ##  CRC карточки классов системы
+Представлены в папке images файлы с именами crc1.png, crc2.png, crc3.png
 ![](images/crc1.png)
-## ffhhf
 ![](images/crc2.png)
 ![](images/crc3.png)
 
